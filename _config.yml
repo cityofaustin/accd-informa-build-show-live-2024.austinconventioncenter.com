@@ -10,6 +10,10 @@ utility_coordinator:
   name: Ben Hamilton
   email: ben.hamilton@austintexas.gov
   phone: 5124044236
+security_coordinator:
+  name: Patrick Thornhill
+  email: Patrick.Thornhill@austintexas.gov
+  phone: 5124044116
 sales_manager:
   name: Jeff Kuryak
   email: jeff.kuryak@austintexas.gov
